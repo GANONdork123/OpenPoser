@@ -76,4 +76,7 @@ crashlytics-build.properties
 
 # 3rd Party Tools
 /[Aa]ssets/FXAA
+/[Aa]ssets/[Pp]lugins
+/[Aa]ssets/CameraProjectionRenderingToolkit
+/[Aa]ssets/AmplifyShaderEditor
 
